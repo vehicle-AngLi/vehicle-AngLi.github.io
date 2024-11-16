@@ -21,7 +21,7 @@ repository               : "vehicle-AngLi/vehicle-AngLi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.png"
+  avatar           : "profile.png"
   name             : "Ang LI(李昂)"
   pronouns         : # example: "she/her"  
   bio              : "Master's student"

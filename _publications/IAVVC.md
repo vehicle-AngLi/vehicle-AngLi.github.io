@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/IAVVC
 venue: ' IEEE International Automated Vehicle Validation Conference (IAVVC)'
-excerpt: 'EI;  IEEE I&MS flagship conf; 1st authored'
+excerpt: 'EI;  IEEE I&MS flagship conf; 1st authored <br/><img src='/images/p1.png'>'
 date: 2023-11-29
 ---
 

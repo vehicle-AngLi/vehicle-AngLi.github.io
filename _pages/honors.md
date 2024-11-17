@@ -20,4 +20,4 @@ Awards
 * 2024-09 ~ 2024 Triple Graduate Student of the Year (**TOP10%**)
 * 2023-10 ~ 2023 Outstanding Student Leader (the head of Science and Technology Department of the Graduate Students' Association, responsible for organizing and arranging activities such as lectures by **Academician** Zhu Di)
 * 2022-06 ~ Hongshen Honor School in Chongqing University (**TOP3%**)
-* 2022-06 - Outstanding Student Project in Chongqing University (**TOP5%**)
+* 2022-06 ~ Outstanding Student Project in Chongqing University (**TOP5%**)

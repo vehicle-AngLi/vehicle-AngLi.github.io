@@ -14,11 +14,11 @@ Southeast University(985)
 * 2022-09 ~ 2025-06
 * M.S. in Mechanical Engineering
 * School of Mechanical Engineering & CIEM
-* GPA: 3.76/4.0
+* GPA: 3.76/4.0 (Guaranteed Admission)
 
 Chongqing University(985)
 ======
 * 2018-09 ~ 2022-06
 * B.S. in Vehicle Engineering
 * College of Mechanical and Vehicles Engineering & Hongshen Honor School
-* GPA: 3.63/4.0(**Top5%**)
+* GPA: 3.63/4.0 (**Top5%**)

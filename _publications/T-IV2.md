@@ -1,5 +1,5 @@
 ---
-title: "A Vision-based Robust H∞ Gain Scheduling Longitudinal and Lateral Following Controller for Autonomous Vehicles on Urban Curved Roads
+title: "A Vision-based Robust H∞ Gain Scheduling Longitudinal and Lateral Following Controller for Autonomous Vehicles on Urban Curved Roads"
 category: manuscripts
 permalink: /publication/T-IV2
 venue: 'IEEE Transactions on Intelligent Vehicles'

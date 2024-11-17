@@ -1,11 +1,10 @@
 ---
-title: "A Novel Semantic Information Perception  Architecture of Autonomous Vehicles for Extreme Targets Detection in Complex Traffic Scenarios"
-collection: publications
+title: "A Vision-based Robust H∞ Gain Scheduling Longitudinal and Lateral Following Controller for Autonomous Vehicles on Urban Curved Roads
 category: manuscripts
-permalink: /publication/T-IV1
+permalink: /publication/T-IV2
 venue: 'IEEE Transactions on Intelligent Vehicles'
-excerpt: 'IF=14.0; JCR-Q1; CAS-Q1; 1st authored'
-date: 2024-08-26
-citation: 'A. Li, Z. Wang, F. Wang, Z. Liu, G. Yin*, R. Fang and K. Geng, "A Novel Semantic Information Perception Architecture for Extreme Targets Detection in Complex Traffic Scenarios," in IEEE Transactions on Intelligent Vehicles, doi: 10.1109/TIV.2024.3450201.'
+excerpt: 'IF=14.0; JCR-Q1; CAS-Q1'
+date: 2024-05-09
+citation: 'R. Fang, Z. Wang, J. Liang, G. Yin*, C. Liu, H. Liu and *Ang. Li*, "A Vision-based Robust H∞ Gain Scheduling Longitudinal and Lateral Following Controller for Autonomous Vehicles on Urban Curved Roads," in IEEE Transactions on Intelligent Vehicles, doi: 10.1109/TIV.2024.3398739.'
 ---
 

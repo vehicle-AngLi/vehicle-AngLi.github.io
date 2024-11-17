@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Education"
-permalink: /cv/
+permalink: /Education/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,7 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Southeast University
 ======
-* M.S. in School of Mechanical Engineering & CIEM, Southeast University, 2022~2025, GPA: 3.76/4.0
-* B.S. in College of Mechanical and Vehicles Engineering & Hongshen Honor School, Chongqing University, 2018~2022, GPA: 3.63/4.0(Top5%)
+* 2022~2025
+* M.S. in Mechanical Engineering
+* School of Mechanical Engineering & CIEM
+* GPA: 3.76/4.0
+
+Chongqing University
+======
+* 2018~2022
+* B.S. in Vehicle Engineering
+* College of Mechanical and Vehicles Engineering & Hongshen Honor School
+* GPA: 3.63/4.0(**Top5%**)

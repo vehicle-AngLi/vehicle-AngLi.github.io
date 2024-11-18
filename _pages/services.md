@@ -19,5 +19,5 @@ Reviewer
 
 Invited Speech
 ======
-* 2024-11-20: RESEARCH ON MULTI-MODAL FUSION PERCEPTION ALGORITHMS FOR INTELLIGENT MOBILE EQUIPMENT IN SPECIAL TARGETS & EXTREME CONDITIONS
-* 2023-12-07: [从车辆视角看目标检测算法发展与计算资源分配问题](https://mp.weixin.qq.com/s/kwACDPdw9hHobqLpwPkdaw)
+* 2024-11-20: RESEARCH ON MULTI-MODAL FUSION PERCEPTION ALGORITHMS FOR INTELLIGENT MOBILE EQUIPMENT IN SPECIAL TARGETS & EXTREME CONDITIONS, in CIEM, Southeast University
+* 2023-12-07: [从车辆视角看目标检测算法发展与计算资源分配问题](https://mp.weixin.qq.com/s/kwACDPdw9hHobqLpwPkdaw), in CIEM, Southeast University

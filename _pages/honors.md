@@ -11,7 +11,7 @@ redirect_from:
 
 Scholarships
 ======
-* 2024-11 ~ ZHENG Geru First-class Scholarship of Master Students (Only winner in School of Mehcanical Engineering, **TOP5%**)
+* 2024-11 ~ ZHENG Geru First-class Scholarship (Only winner in School of Mehcanical Engineering, **TOP5%**)
 * 2024-05 ~ Huawei Scholarship of Master Students (Only winner in School of Mehcanical Engineering, **TOP2%**)
 * 2023-10 ~ 2023 First Class Academic Scholarship (**TOP10%**)
 * 2023-10/2024-10 ~ Master's Entrance Academic Scholarship; Master's Academic Scholarship (ungraded) 

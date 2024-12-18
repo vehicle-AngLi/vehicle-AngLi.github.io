@@ -16,6 +16,9 @@ main:
     
   - title: "Competitions"
     url: /competitions/
+
+  - title: "Projects"
+    url: /projects/
   
   - title: "Services"
     url: /services/

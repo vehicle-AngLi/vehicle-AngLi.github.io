@@ -17,6 +17,6 @@ Please feel free to contact me for all communication and cooperation at Email: [
 
 News
 -------
-2024-11: ZHENG Geru First-class scholarsip, thanks to the funders!
+2025-01: Invited to review papers in IEEE Transactions on Intelligent Transportation Systems!
 
-2024-08: One paper was accepted to IEEE Transactions on Intelligent Vehicles
+2024-11: ZHENG Geru First-class scholarsip, thanks to the funders!

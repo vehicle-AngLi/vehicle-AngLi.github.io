@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <img src='/images/seu.jpg'>
+
 Southeast University(985)
 ======
 * 2022-09 ~ 2025-06

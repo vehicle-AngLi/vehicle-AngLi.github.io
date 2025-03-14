@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<img src='/images/seu.jpg'>
+<img src='/images/seu.png'>
 
 Southeast University(985)
 ======

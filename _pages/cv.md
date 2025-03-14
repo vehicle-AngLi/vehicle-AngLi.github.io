@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<img src='/images/seu.png' width='225px'>
+<img src='/images/seu.png' width='125px'>
 
 Southeast University(985)
 ======
@@ -18,7 +18,7 @@ Southeast University(985)
 * School of Mechanical Engineering & CIEM
 * GPA: 3.76/4.0 (Guaranteed Admission)
 
-<img src='/images/cqu.png' width='225px'>
+<img src='/images/cqu.png' width='125px'>
 
 Chongqing University(985)
 ======

@@ -18,6 +18,8 @@ Southeast University(985)
 * School of Mechanical Engineering & CIEM
 * GPA: 3.76/4.0 (Guaranteed Admission)
 
+<img src='/images/cqu.png'>
+
 Chongqing University(985)
 ======
 * 2018-09 ~ 2022-06

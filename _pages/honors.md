@@ -18,6 +18,7 @@ Scholarships
 
 Awards
 ======
+* 2025-03 ~ Excellent Communist Party Member【优秀研究生共产党员】(University-Level)
 * 2024-09 ~ 2024 Triple Graduate Student of the Year【2024年度三好研究生】(**TOP10%**)
 * 2023-10 ~ 2023 Outstanding Student Leader【2023年度优秀研究生干部】(the head of Science and Technology Department of the Graduate Students' Association, responsible for organizing and arranging activities such as lectures by **Academician** Zhu Di)
 * 2022-06 ~ Hongshen Honor School in Chongqing University【重庆大学弘深学院】(**TOP3%**)

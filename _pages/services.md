@@ -17,6 +17,7 @@ Reviewer
 * [Automotive Innovation](https://link.springer.com/journal/42154) (IF=4.8; JCR-Q1; CAS-Q1)
 * [Computers and Electrical Engineering](https://www.sciencedirect.com/journal/computers-and-electrical-engineering) (IF=4.0; JCR-Q2; CAS-Q3)
 * IEEE Intelligent Vehicles Symposium (IV) (EI; IEEE ITSS flagship conference)
+* IEEE International Conference on Intelligent Transportation Systems (ITSC) (EI; IEEE ITSS flagship conference)
 
 Invited Speech
 ======

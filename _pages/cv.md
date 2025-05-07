@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 <img src='/images/cuhk.png' width='125px'>
 
 The Chinese University of Hong Kong(SZ) (QS50)
@@ -16,6 +17,7 @@ The Chinese University of Hong Kong(SZ) (QS50)
 * 2025-07 ~ 2029-07
 * PhD in Computer Science
 * School of Data Science
+
 
 <img src='/images/seu.png' width='125px'>
 
@@ -25,6 +27,7 @@ Southeast University(985)
 * M.S. in Mechanical Engineering
 * School of Mechanical Engineering & CIEM
 * GPA: 3.76/4.0 (Guaranteed Admission)
+
 
 <img src='/images/cqu.png' width='125px'>
 

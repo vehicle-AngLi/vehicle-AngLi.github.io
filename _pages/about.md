@@ -17,8 +17,8 @@ Please feel free to contact me for all communication and cooperation at Email: [
 
 News
 -------
+2025-08：One paper was published on T-ITS, Congratulations to Dr. Fanxun Wang!
+
 2025-01: Two Papers were published on CVCI2024, Congratulations to Dr. Wang & Dr. Wu!
 
 2025-01: Invited to review papers in IEEE Transactions on Intelligent Transportation Systems!
-
-2024-11: ZHENG Geru First-class scholarsip, thanks to the funders!

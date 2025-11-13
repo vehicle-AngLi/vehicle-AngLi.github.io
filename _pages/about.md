@@ -17,8 +17,8 @@ Please feel free to contact me for all communication and cooperation at Email: [
 
 News
 -------
+2025-11：Invited as reviewer in IEEE Transactions on Consumer Electronics (JCR-Q1, SCIQ2)
+
+2025-11：Invited as reviewer in IEEE IV(2026).
+
 2025-08：One paper was published on T-ITS, Congratulations to Dr. Fanxun Wang!
-
-2025-01: Two Papers were published on CVCI2024, Congratulations to Dr. Wang & Dr. Wu!
-
-2025-01: Invited to review papers in IEEE Transactions on Intelligent Transportation Systems!

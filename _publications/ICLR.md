@@ -3,7 +3,7 @@ title: "HWC-Loco: A Hierarchical Whole-Body Control Approach to Robust Humanoid 
 collection: publications
 category: conferences
 permalink: /publication/ICLR
-venue: 'ICLR'26'
+venue: 'International Conference on Learning Representations (ICLR)'
 excerpt: "EI; TOP AI conf"
 date: 2026-01-01
 ---

@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/ICLR
 venue: 'International Conference on Learning Representations (ICLR)'
-excerpt: "EI; TOP AI conf"
+excerpt: "CCF-A; TOP AI conf"
 date: 2026-01-01
 ---
 

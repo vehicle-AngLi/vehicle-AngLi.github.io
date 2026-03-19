@@ -8,4 +8,4 @@ excerpt: "CCF-A; TOP AI conf"
 date: 2026-01-01
 ---
 
-Sixu Lin, Guanren Qiao, Yunxin Tai, **Ang Li**, Kui Jia, Guiliang Liu, "HWC-Loco: A Hierarchical Whole-Body Control Approach to Robust Humanoid Locomotion", arXiv, https://arxiv.org/abs/2503.00923.
+Sixu Lin, Guanren Qiao, Yunxin Tai, **Ang Li**, Kui Jia, Guiliang Liu*, "HWC-Loco: A Hierarchical Whole-Body Control Approach to Robust Humanoid Locomotion", arXiv, https://arxiv.org/abs/2503.00923.

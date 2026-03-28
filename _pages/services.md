@@ -19,6 +19,7 @@ Reviewer
 * [Computers and Electrical Engineering](https://www.sciencedirect.com/journal/computers-and-electrical-engineering) (IF=4.0; JCR-Q2; CAS-Q3)
 * IEEE Intelligent Vehicles Symposium (IV) 2024; 2026 (EI; IEEE ITSS flagship conference)
 * IEEE International Conference on Intelligent Transportation Systems (ITSC) 2025; 2026 (EI; IEEE ITSS flagship conference)
+* IEEE/RSJ International Conference on Intelligent Robots & Systems (IROS) 2026
 
 Invited Speech
 ======

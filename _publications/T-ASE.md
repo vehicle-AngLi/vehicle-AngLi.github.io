@@ -3,7 +3,7 @@ title: "Reachability-Constrained Motion Planning and Control Integration Framewo
 category: manuscripts
 permalink: /publication/T-ASE
 venue: 'IEEE Transactions on Automation Science and Engineering'
-excerpt: 'IF=6.4; JCR-Q1; CAS-Q2'
+excerpt: 'IF=6.4; JCR-Q1; CAS-Q2; CCF-B'
 date: 2026-06-04
 ---
 

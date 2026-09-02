@@ -28,4 +28,5 @@ Invited Speech
 
 Teaching Assistant
 ======
-* CSC-1004, Computational Laboratory Using Java, 2026-Autumn
+* CSC-1004(CUHK-SZ), Computational Laboratory Using Java, 2026-Spring
+* CSC-1001(CUHK-SZ), Introduction to Computer Science: Programming Methodology, 2026-Autumn

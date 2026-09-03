@@ -17,8 +17,8 @@ Please feel free to contact me for all communication and cooperation at Email: [
 
 News
 -------
+2026-09：One paper was accepted at Neurocomputing, Thanks to all my co-authors!
+
 2026-03: Invited as reviewer in IEEE ITSC'2026, IEEE/RSJ IROS'2026
 
 2026-01: One paper was accepted at ICLR'26, Congratulations to Dr. Sixu LIN.
-
-2025-11：Invited as reviewer in IEEE Transactions on Consumer Electronics (JCR-Q1, SCIQ2)

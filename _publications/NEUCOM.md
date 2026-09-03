@@ -1,5 +1,5 @@
 ---
-title: "A generic lightweight multi-modal image information fusion architecture"
+title: "A Generic Lightweight Multi-modal Image Information Fusion Architecture"
 collection: publications
 category: manuscripts
 permalink: /publication/NEUCOM

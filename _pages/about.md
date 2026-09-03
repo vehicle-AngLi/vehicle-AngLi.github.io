@@ -17,7 +17,7 @@ Please feel free to contact me for all communication and cooperation at Email: [
 
 News
 -------
-2026-09：One paper was accepted at Neurocomputing, Thanks to all my co-authors!
+2026-09: One paper was accepted at Neurocomputing, Thanks to all my co-authors!
 
 2026-03: Invited as reviewer in IEEE ITSC'2026, IEEE/RSJ IROS'2026
 

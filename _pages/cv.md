@@ -16,7 +16,7 @@ The Chinese University of Hong Kong(SZ) (QS50)
 ======
 * 2025-07 ~ 2029-07
 * PhD in Computer Science
-* School of Data Science
+* School of Data Science & Edem Lab
 
 
 <img src='/images/seu.png' width='125px'>

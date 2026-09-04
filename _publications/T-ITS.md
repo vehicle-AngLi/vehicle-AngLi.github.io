@@ -3,7 +3,7 @@ title: "Protocol-Based Fusion Estimator for Motion State of Surrounding Vehicles
 category: manuscripts
 permalink: /publication/T-ITS
 venue: 'IEEE Transactions on Intelligent Transportation Systems'
-excerpt: 'IF=8.4; JCR-Q1; CAS-Q2'
+excerpt: 'IF=8.4; JCR-Q1; CAS-Q2; CCF-B'
 date: 2025-08-05
 ---
 

@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/NEUCOM
 venue: 'Neurocomputing'
-excerpt: "IF=6.66; JCR-Q1; CAS-Q2 Top; 1st authored <br/><img src='/images/p4.png'>"
+excerpt: "IF=6.66; JCR-Q1; CAS-Q2 Top; CCF-C; 1st authored <br/><img src='/images/p4.png'>"
 date: 2026-09-03
 ---
 

@@ -20,6 +20,8 @@ Reviewer
 * IEEE Intelligent Vehicles Symposium (IV) 2024; 2026 (EI; IEEE ITSS flagship conference)
 * IEEE International Conference on Intelligent Transportation Systems (ITSC) 2025; 2026 (EI; IEEE ITSS flagship conference)
 * IEEE/RSJ International Conference on Intelligent Robots & Systems (IROS) 2026
+* IEEE International Conference on Robotics & Automation (ICRA) 2027
+* The International Conference on Learning Representations (ICLR) 2027
 
 Invited Speech
 ======

@@ -23,6 +23,10 @@ Reviewer
 * IEEE International Conference on Robotics & Automation (ICRA) 2027
 * The International Conference on Learning Representations (ICLR) 2027
 
+Internship
+======
+* 2026-03-01 ~ Now: Shenzhen Loop Area Institute, Research Assistant, Multi-robots System Setup. <img src='/images/slai.png'>
+
 Invited Speech
 ======
 * 2024-11-20: [RESEARCH ON MULTI-MODAL FUSION PERCEPTION ALGORITHMS FOR INTELLIGENT MOBILE EQUIPMENT IN SPECIAL TARGETS & EXTREME CONDITIONS](https://mp.weixin.qq.com/s/Cgch0pbuW_rpifSz1lz_Sg), in CIEM, Southeast University <img src='/images/spe-1.png'>

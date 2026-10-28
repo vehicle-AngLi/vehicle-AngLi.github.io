@@ -25,7 +25,7 @@ Reviewer
 
 Internship
 ======
-* 2026-03-01 ~ Now: Shenzhen Loop Area Institute, Research Assistant, Multi-robots System Setup. <img src='/images/slai.png'>
+* 2026-03-01 ~ Now: Shenzhen Loop Area Institute, Research Assistant, Multi-robots System Setup.
 
 Invited Speech
 ======

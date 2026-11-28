@@ -19,6 +19,7 @@ Reviewer
 * [Computers and Electrical Engineering](https://www.sciencedirect.com/journal/computers-and-electrical-engineering) (IF=4.0; JCR-Q2; CAS-Q2)
 * [Multimedia Systems](https://link.springer.com/journal/530) (IF=2.8; JCR-Q2; CAS-Q3)
 * [Signal, Image and Video Processing](https://link.springer.com/journal/11760) (IF=2.5; JCR-Q2; CAS-Q4)
+* [Discover Applied Sciences](https://link.springer.com/journal/42452) (IF=3.8; JCR-Q2; CAS-Q4)
 * IEEE Intelligent Vehicles Symposium (IV) 2024; 2026 (EI; IEEE ITSS flagship conference)
 * IEEE International Conference on Intelligent Transportation Systems (ITSC) 2025; 2026 (EI; IEEE ITSS flagship conference)
 * IEEE/RSJ International Conference on Intelligent Robots & Systems (IROS) 2026
